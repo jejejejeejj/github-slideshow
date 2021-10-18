@@ -207,5 +207,3 @@ DEPENDENCIES
   html-proofer (>= 3.13.0)
   tzinfo-data
 
-BUNDLED WITH
-   2.2.9
